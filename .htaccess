@@ -1,0 +1,5 @@
+# Disable raw directory listing if Node app is not intercepting yet
+Options -Indexes
+
+# If cPanel Node.js / Passenger is enabled, requests are handled by the app.
+# Do not put static client/server folder browsing as the site homepage.

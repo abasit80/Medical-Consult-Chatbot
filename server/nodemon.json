@@ -1,0 +1,5 @@
+{
+  "watch": ["*.js", "routes", ".env"],
+  "ext": "js,json,env",
+  "ignore": ["data", "uploads", "node_modules"]
+}
